@@ -1,0 +1,24 @@
+{
+  "name": "pmag-csgo-stats",
+  "version": "0.0.1",
+  "description": "CS GO Statistics website",
+  "author": "Paulo Magalhaes <88.pmagalhaes@gmail.com>",
+  "contributors": [
+    {
+      "name": "Foo Bar",
+      "email": "foo.bar@example.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Eclaestus/pmag-csgo-stats"
+  },
+  "bugs": {
+    "url": "https://github.com/Eclaestus/pmag-csgo-stats/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "jslint": "^0.9.0-pre006"
+  }
+}
